@@ -1,1 +1,1 @@
-# .github
+Have fun!
